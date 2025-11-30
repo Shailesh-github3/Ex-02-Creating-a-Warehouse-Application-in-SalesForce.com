@@ -34,7 +34,8 @@ After Next, define the fields for the custom app.
 •	App Label: Search Service.
 •	App Name: Search Service.
 •	Description: Search Service is one app where we manage all the business data and catalogues.
- ![ex2-5](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/e82870fd-7400-4bf6-9dfe-622df1825574)
+ 
+![ex2-5](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/e82870fd-7400-4bf6-9dfe-622df1825574)
 
 
 ### Step 6: Choose the Image Source for the Custom App Logo.
@@ -47,12 +48,10 @@ Note: Before inserting an image for the logo you need to use the following proce
 ![ex2-7](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/f4401b49-8fc7-418a-ae18-1ec61d115739)
 
 
-
 ### Step 8: Select a utility item
 
 
 ![ex2-8](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/9f6179b9-a990-4edc-87a1-f9a5ecdbec0c)
-
 
 
 ### Step 9: Select any of the user profiles. Then Click Save &Finish
@@ -64,10 +63,7 @@ Note: Before inserting an image for the logo you need to use the following proce
 ### Step 10: A new app will be created and displayed
 
 
-
 ![ex2-10](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/9be0d550-d6ad-434e-82bb-74f9c05bfd2f)
-
-
 
 
 ## RESULT:
